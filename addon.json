@@ -1,0 +1,6 @@
+{
+    "package-name": "divio-wagtailschemaorg",
+    "installed-apps": [
+        "wagtailschemaorg"
+    ]
+}
